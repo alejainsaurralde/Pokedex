@@ -1,0 +1,16 @@
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\winform_app.exe.config
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\winform_app.exe
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\winform_app.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.frmPokemons.resources
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.exe
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\Dominio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\Dominio.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.csproj.CopyComplete
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\Negocio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\bin\Debug\Negocio.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\winform_app\obj\Debug\winform_app.frmAltaPokemon.resources

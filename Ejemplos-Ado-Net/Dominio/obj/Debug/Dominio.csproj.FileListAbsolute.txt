@@ -1,0 +1,6 @@
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Dominio\obj\Debug\Dominio.pdb

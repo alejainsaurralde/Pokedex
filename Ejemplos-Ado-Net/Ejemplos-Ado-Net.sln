@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform_app", "winform_app\winform_app.csproj", "{C685C1A6-49B4-4C7F-B9E8-C18A261B4AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{2AF6F03D-09CA-4E6E-9D5C-C07B59807EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{9DA7EE98-7F5E-498A-9970-65A53AD77F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C685C1A6-49B4-4C7F-B9E8-C18A261B4AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C685C1A6-49B4-4C7F-B9E8-C18A261B4AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C685C1A6-49B4-4C7F-B9E8-C18A261B4AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C685C1A6-49B4-4C7F-B9E8-C18A261B4AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF6F03D-09CA-4E6E-9D5C-C07B59807EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF6F03D-09CA-4E6E-9D5C-C07B59807EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF6F03D-09CA-4E6E-9D5C-C07B59807EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF6F03D-09CA-4E6E-9D5C-C07B59807EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA7EE98-7F5E-498A-9970-65A53AD77F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA7EE98-7F5E-498A-9970-65A53AD77F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA7EE98-7F5E-498A-9970-65A53AD77F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA7EE98-7F5E-498A-9970-65A53AD77F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AAE4153-0499-441B-821F-11C0D3A518A7}
+	EndGlobalSection
+EndGlobal

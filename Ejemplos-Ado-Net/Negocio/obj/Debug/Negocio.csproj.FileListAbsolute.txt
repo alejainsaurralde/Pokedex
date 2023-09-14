@@ -1,0 +1,9 @@
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleja\OneDrive\Escritorio\Curso c# nivel2\Ejemplos-Ado-Net\Negocio\obj\Debug\Negocio.pdb
